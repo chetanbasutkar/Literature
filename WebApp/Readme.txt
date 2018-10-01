@@ -1,0 +1,1 @@
+This is an Web application that implements the game Literature and implements rest services to interact with Android and IOS interfaces.

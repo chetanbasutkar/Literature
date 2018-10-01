@@ -1,0 +1,1 @@
+This is an android application that acts as a user interface to the application/game Literature using rest services.
